@@ -1,0 +1,24 @@
+{
+  "name": "progressivebudget",
+  "version": "1.0.0",
+  "description": "Budget and track money",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinNgo-Creator/ProgressiveBudget.git"
+  },
+  "author": "Kevin Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinNgo-Creator/ProgressiveBudget/issues"
+  },
+  "homepage": "https://github.com/KevinNgo-Creator/ProgressiveBudget#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9"
+  }
+}
